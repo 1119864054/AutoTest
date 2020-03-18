@@ -133,9 +133,6 @@ dmypy.json
 .idea/.gitignore
 .idea/AutoTest.iml
 .idea/modules.xml
-at.py
-build.py
-test.py
 venv/Include/
 venv/Lib/site-packages/Jinja2-2.11.1.dist-info/INSTALLER
 venv/Lib/site-packages/Jinja2-2.11.1.dist-info/LICENSE.rst
